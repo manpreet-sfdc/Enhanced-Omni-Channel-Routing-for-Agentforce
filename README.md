@@ -539,7 +539,12 @@ This architecture enables:
 * Better customer experience
 
 <img width="3199" height="720" alt="mermaid-diagram (5)" src="https://github.com/user-attachments/assets/2aa79723-3759-466b-82f6-5ab9325f582f" />
-<img width="3199" height="720" alt="mermaid-diagram (5)" src="https://github.com/user-attachments/assets/e2162c0b-2303-4a67-93df-92bba77628a2" />
+<img width="3104" height="129" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/3f4c4ff8-a75e-4310-ae6e-d5d09e8e2e3b" />
+<img width="3772" height="129" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/3cb27936-50d9-4831-92c4-4a294642b684" />
+<img width="3029" height="129" alt="mermaid-diagram (3)" src="https://github.com/user-attachments/assets/887087e5-b1f0-4615-b05f-e462452e2d14" />
+<img width="463" height="1508" alt="mermaid-diagram (4)" src="https://github.com/user-attachments/assets/77766c2d-84e9-4bf3-b5c6-bdde6521e5f8" />
+
+
 
 
 
